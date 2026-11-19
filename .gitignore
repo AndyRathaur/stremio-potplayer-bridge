@@ -1,0 +1,18 @@
+# Compiled Binaries
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# Runtime Logs
+*.log
+potplayer-bridge.log
+
+# Temporary & Editor Files
+*.tmp
+*~
+*.swp
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
